@@ -7,7 +7,7 @@ This is a simple app that display names of animals.When clicked on one of the na
 
 -Create git hub repository.
 
--git clone 
+-git clone https://github.com/shukri26/week-2-challenge
 
 -Add Collaborator(Technical Mentor)
 
@@ -30,6 +30,6 @@ This is a simple app that display names of animals.When clicked on one of the na
 By Mohamud Shukri.
 
 
-##LICENSE
+## LICENSE
 
 -MIT
