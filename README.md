@@ -4,9 +4,13 @@
 This is a simple app that display names of animals.When clicked on one of the names it displays the detail of the animal.It also enables one to vote for the animal they want.
 
 ## Requirements
+
 -Create git hub repository.
+
 -git clone 
+
 -Add Collaborator(Technical Mentor)
+
 -The neccessary used JS, HTML & CSS                                                                      
 
 ## Installations
